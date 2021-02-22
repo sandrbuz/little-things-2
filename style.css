@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ---------------------------------------------------------------------------- */
+.list {
+  padding-left: 20px;
+}
+.lists {
+  display: none;
+}
+.head-menu {
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+/* dropdown menu when clicked */
+/* ------------------------------------------------------------------------ */
